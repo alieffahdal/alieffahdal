@@ -24,8 +24,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/alieffahdal/alieffahdal/output/snake.svg" alt="Snake animation" />
 
 ###
