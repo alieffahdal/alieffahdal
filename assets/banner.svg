@@ -1,0 +1,58 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="1200" height="300" rx="20" fill="#1a1a1a" />
+  <rect x="0" y="0" width="6" height="300" rx="3" fill="#d3ff3f" />
+
+  <!-- decorative wireframe sphere, echoing the portfolio hero scene -->
+  <g stroke="#d3ff3f" stroke-width="1" opacity="0.45" fill="none">
+    <polygon points="950,40 1040,70 1065,150 1030,225 950,258 865,225 835,150 865,72" />
+    <polygon points="950,105 1000,150 950,195 900,150" />
+    <line x1="950" y1="40" x2="950" y2="105" />
+    <line x1="1040" y1="70" x2="1000" y2="150" />
+    <line x1="1065" y1="150" x2="1000" y2="150" />
+    <line x1="1030" y1="225" x2="950" y2="195" />
+    <line x1="950" y1="258" x2="950" y2="195" />
+    <line x1="865" y1="225" x2="900" y2="150" />
+    <line x1="835" y1="150" x2="900" y2="150" />
+    <line x1="865" y1="72" x2="950" y2="105" />
+    <line x1="950" y1="40" x2="1000" y2="150" />
+    <line x1="1065" y1="150" x2="950" y2="195" />
+    <line x1="950" y1="258" x2="900" y2="150" />
+    <line x1="835" y1="150" x2="950" y2="105" />
+  </g>
+  <g fill="#d3ff3f" opacity="0.9">
+    <circle cx="950" cy="40" r="3.5" />
+    <circle cx="1040" cy="70" r="3.5" />
+    <circle cx="1065" cy="150" r="3.5" />
+    <circle cx="1030" cy="225" r="3.5" />
+    <circle cx="950" cy="258" r="3.5" />
+    <circle cx="865" cy="225" r="3.5" />
+    <circle cx="835" cy="150" r="3.5" />
+    <circle cx="865" cy="72" r="3.5" />
+    <circle cx="950" cy="105" r="3" />
+    <circle cx="1000" cy="150" r="3" />
+    <circle cx="950" cy="195" r="3" />
+    <circle cx="900" cy="150" r="3" />
+    <circle cx="950" cy="150" r="4.5" />
+  </g>
+
+  <!-- floating particles, echoing the portfolio's particle field -->
+  <g stroke="#6b6b6b" stroke-width="1" opacity="0.35">
+    <line x1="750" y1="55" x2="835" y2="90" />
+    <line x1="1155" y1="85" x2="1065" y2="115" />
+    <line x1="775" y1="255" x2="865" y2="215" />
+    <line x1="1145" y1="245" x2="1030" y2="215" />
+  </g>
+  <g fill="#e5e5e5" opacity="0.8">
+    <circle cx="750" cy="55" r="2.5" />
+    <circle cx="1155" cy="85" r="2.5" />
+    <circle cx="775" cy="255" r="2.5" />
+    <circle cx="1145" cy="245" r="2.5" />
+  </g>
+
+  <!-- text -->
+  <text x="64" y="88" font-family="Courier New, monospace" font-size="14" letter-spacing="2" fill="#9a9a9a">IT LECTURER &#183; UNIVERSITAS HASANUDDIN</text>
+  <text x="62" y="150" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f5f5f5">Alief Fahdal</text>
+  <text x="64" y="186" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#d3ff3f">Software Engineer &amp; Researcher</text>
+  <text x="64" y="216" font-family="Courier New, monospace" font-size="14" fill="#b0b0b0">Java &#183; JavaScript &#183; Software Engineering &#183; Machine Learning &#183; e-Government</text>
+  <text x="64" y="256" font-family="Courier New, monospace" font-size="14" fill="#8fb300">alieffahdal.github.io</text>
+</svg>
