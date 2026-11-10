@@ -18,6 +18,7 @@ IT developer and lecturer in Informatics Engineering at Universitas Hasanuddin, 
 
 ---
 
+- 🏫 Currently student as **PhD Researcher of Dependable System @ Hiroshima University**
 - 🏫 Currently working as **Assistant Professor of Informatics Engineering @ Universitas Hasanuddin**
 - 🏛️ Serving as **e-Government (SPBE) Assessor @ Kementerian PANRB**
 - 🧠 Exploring **machine learning applications**, including LSTM-based earthquake forecasting
